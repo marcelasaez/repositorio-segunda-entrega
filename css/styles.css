@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(252, 14, 61);
+    align-items: center;
+}
+
+.img {
+    align-items: center;
+}
+
+
+h1 {
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size:60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    }
+    
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 10%;
+
+}
+   
+
+    
+
+.colorazul {
+    color: blue;
+}
+
+.navegacion {
+    text-align: end;
+    background-color: rgb(241, 241, 121);
+}
+.listanavegacion {
+    list-style-type: none;    
+}
+
+.listanavegacion li {
+    display: inline-block;
+    margin-right: 30px;
+    height: 50px;       
+}
+.card {
+    background-color:rgb(248, 106, 106);
+    width: 1400px;
+    height: 830px;
+}
+.card_imagen {
+    width: 70%;
+}
+.card_pararafo {
+    font-style: italic;
+    font-size: 20px;    
+}
+
+.card_parrafo--descripcion {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulopagina {
+    font-style: italic
+   ;
+}
+footer {
+    text-align: end;
+    font-size: 20px;
+}
+
